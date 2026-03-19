@@ -14,11 +14,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm currently working on exciting projects that push the boundaries of what's possible.
-- 🌱 I'm always learning new technologies to sharpen my skills.
-- 👯 I'm open to collaborating on interesting open-source projects.
-- 💬 Ask me about software development, problem-solving, and tech trends.
-- ⚡ Fun fact: I believe clean code and a good cup of coffee can solve most problems.
+- I'm currently working on exciting projects that push the boundaries of what's possible.
+- I'm always learning new technologies to sharpen my skills.
+- I'm open to collaborating on interesting open-source projects.
+- Ask me about software development, problem-solving, and tech trends.
+- Fun fact: I believe clean code and a good cup of coffee can solve most problems.
 
 ---
 
