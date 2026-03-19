@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jinhong 👋</h1>
+<h1 align="center">Hi there, I'm Jin 👋</h1>
 
 <p align="center">
   <em>Passionate developer · Lifelong learner · Open-source enthusiast</em>
